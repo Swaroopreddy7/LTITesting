@@ -1,0 +1,6 @@
+public class test2{
+@Test
+public void TC1(){
+Sysytem.out.println("test case-1")
+}
+}
